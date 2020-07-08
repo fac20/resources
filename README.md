@@ -1,31 +1,28 @@
-# resources
-
 # RESOURCES
 
 This repo is a place to store all the wonderful resources you stumble across.
+
 Because Sharing is Caring. 
 
-Credit to [Joko](https://github.com/jokosanyang) for the ingenious idea!
+Credit to [Joko](https://github.com/jokosanyang) for inspiring us all.
 
 ## List of categories
 
-- [HTML](./directory/html.md)
-- [Styling](./directory/styling.md)
-- [Javascript](./directory/javascript.md)
+- [Accessibility](./directory/accessibility.md)
+- [Databases](./directory/databases.md)
+- [Design (incl theory))](./directory/design.md)
 - [Git/GitHub](./directory/git.md)
-- [General design](./directory/design.md)
-- [Tools/Generators](./directory/tools.md)
-- [Talks](./directory/talks.md)
-- [Node.js](./directory/node.md)
-- [Single page applications](./directory/SPAs.md)
+- [HTML](./directory/html.md)
+- [Javascript](./directory/javascript.md)
 - [Job search](./directory/jobs.md)
 - [Meetups](./directory/meetups.md)
-- [Accessibility](./directory/accessibility.md)
+- [Node.js](./directory/node.md)
+- [Single page applications](./directory/SPAs.md)
+- [Styling](./directory/styling.md)
+- [Talks](./directory/talks.md)
+- [Tools/Generators](./directory/tools.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
-- [Self Care](./directory/selfcare.md)
-- [Books](./directory/books.md)
-- [Quotes](./directory/quotes.md)
 
 ## How to add a resource
 
