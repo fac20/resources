@@ -1,6 +1,6 @@
 # Talks
 
-This file should contain the names of each Wed & Fri speaker and a link to their slide deck. If it is not up to date, let [Jack](mailto:jack@foundersandcoders.com) know.
+This file should contain the names of each Tues & Fri speaker and a link to their slide deck. If it is not up to date, let [Jack](mailto:jack@foundersandcoders.com) know.
 
 | Week | Speaker | Topic & Link |
 | --- | --- |  --- |
