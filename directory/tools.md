@@ -14,3 +14,8 @@
 |https://www.toptal.com/designers/colorfilter | Colourblind checker | Jessica |
 |https://flexboxfroggy.com/ | Flexbox Froggy! | Jessica |
 |https://cssgridgarden.com/ | Grid Garden | Jessica |
+|https://mastery.games/flexboxzombies/ | Flexbox Zombies - shoot zombies while learning flexbox! | Akshaya |
+|https://glyphy.io/ | Grid Garden | Akshaya |
+|https://www.blobmaker.app/ | SVG Blob generator | Akshaya |
+|https://cssgradient.io/ | Color Gradient generator | Akshaya |
+|https://miro.com/ | Online collaborative whiteboard platform | Akshaya |
