@@ -2,6 +2,7 @@
 
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
+| https://undesign.learn.uno/ | Collection of free design tools & resources for Devs | Akshaya |
 | https://www.drawkit.io/ | Free illustrations | Akshaya |
 | https://www.blackillustrations.com/ | Beautiful & Free Black illustrations | Akshaya |
 | https://undraw.co/illustrations | Free illustrations | Akshaya |
