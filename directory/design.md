@@ -10,3 +10,5 @@
 | https://getillustrations.com/illustration-packs/freebie | Free illustrations | Akshaya |
 | https://app.itg.digital/ | Free illustrations | Akshaya |
 | https://lawsofux.com/ | Free illustrations | Akshaya |
+| https://www.youtube.com/playlist?list=PLrJQSKQvgHS43VLbEJrsCtSHUrGnV49EU | Great design/web dev tutorials | Akshaya |
+
