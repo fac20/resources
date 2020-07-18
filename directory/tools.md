@@ -2,7 +2,11 @@
 
 | Name | Description | Added by |
 | ---- | ----------- | -------- |
-| |  |  |
+|Live Share | Share the code you're working on | ... |
+|Live Server | View the websight your working on in real-time | ... |
+|Code Spell Checker | A spell checker | Azizi |
+|indent-rainbow | A different color for every level of indentation | Azizi |
+|Bracket Pair Colorizer 2 | Brackets paired by colour | Azizi |
 
 # Other Tools
 
