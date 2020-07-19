@@ -5,9 +5,21 @@
 |Live Share | Share the code you're working on | ... |
 |Live Server | View the websight your working on in real-time | ... |
 |Code Spell Checker | A spell checker | Azizi |
-|indent-rainbow | A different color for every level of indentation | Azizi |
+|Indent-rainbow | A different color for every level of indentation | Azizi |
 |Bracket Pair Colorizer 2 | Brackets paired by colour | Azizi |
-|Highlight Macthing Tag | Highlights matching tags | Terry |
+|Highlight Matching Tag | Highlights matching tags | Terry |
+|Noctis | Colleciton of Light & Dark themes | Akshaya |
+|Better Comments | Annotating with alert, informational, TODOs, and more! | Akshaya |
+|Code Spell Checker | Spelling checker for source code | Akshaya |
+|CSS Peek | Allows peeking to respective CSS elements | Akshaya |
+|Debugger for Chrome | Debugger your JS code in Chrome from VSCode | Akshaya |
+|Git history | View git log, file history, compare branches or commits | Akshaya |
+|JavaScript (ES6) code snippets | Code snippets for JavaScript in ES6 syntax | Akshaya |
+|Path Intellisense | Autocompletes filenames | Akshaya |
+|Markdown All in One | All you need for Markdown files | Akshaya |
+|Settings Sync | Synchronize settings, extensions, themes etc across multiple machines | Akshaya |
+
+
 
 # Other Tools
 
