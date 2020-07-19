@@ -7,6 +7,7 @@
 |Code Spell Checker | A spell checker | Azizi |
 |indent-rainbow | A different color for every level of indentation | Azizi |
 |Bracket Pair Colorizer 2 | Brackets paired by colour | Azizi |
+|Highlight Macthing Tag | Highlights matching tags | Terry |
 
 # Other Tools
 
