@@ -36,3 +36,4 @@
 |https://www.blobmaker.app/ | SVG Blob generator | Akshaya |
 |https://cssgradient.io/ | Color Gradient generator | Akshaya |
 |https://miro.com/ | Online collaborative whiteboard platform | Akshaya |
+|https://www.netlify.com/ | Allows you to deploy your site, manage your forms and submissions and much more.-[Learn how to deploy with netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) | Khadija |
