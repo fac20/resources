@@ -10,6 +10,7 @@ Credit to [Joko](https://github.com/jokosanyang) for inspiring us all.
 
 - [Accessibility](./directory/accessibility.md)
 - [Databases](./directory/databases.md)
+- [Network](./directory/network.md)
 - [Design (incl theory))](./directory/design.md)
 - [Git/GitHub](./directory/git.md)
 - [HTML](./directory/html.md)
