@@ -10,7 +10,6 @@
 |Highlight Matching Tag | Highlights matching tags | Terry |
 |Noctis | Colleciton of Light & Dark themes | @[fairyaksh](https://github.com/fairyaksh) |
 |Better Comments | Annotating with alert, informational, TODOs, and more! | @[fairyaksh](https://github.com/fairyaksh) |
-|Code Spell Checker | Spelling checker for source code | @[fairyaksh](https://github.com/fairyaksh) |
 |CSS Peek | Allows peeking to respective CSS elements | @[fairyaksh](https://github.com/fairyaksh) |
 |Debugger for Chrome | Debugger your JS code in Chrome from VSCode | @[fairyaksh](https://github.com/fairyaksh) |
 |Git history | View git log, file history, compare branches or commits | @[fairyaksh](https://github.com/fairyaksh) |
