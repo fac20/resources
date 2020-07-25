@@ -28,11 +28,10 @@
 |https://whimsical.com/ | Wireframing tool | Amber |
 |https://formspree.io/ | Allows you to send the data from your forms where you can save it | Amber |
 |https://www.notion.so/ | Note-taking tool ? | ? |
-|https://www.toptal.com/designers/colorfilter | Colourblind checker | Jessica |
-|https://flexboxfroggy.com/ | Flexbox Froggy! | Jessica |
-|https://cssgridgarden.com/ | Grid Garden | Jessica |
+|https://www.toptal.com/designers/colorfilter | Colourblind checker | @[jessica440](https://github.com/jessica440)  |
+|https://flexboxfroggy.com/ | Flexbox Froggy! | @[jessica440](https://github.com/jessica440)  |
+|https://cssgridgarden.com/ | Grid Garden | @[jessica440](https://github.com/jessica440)  |
 |https://mastery.games/flexboxzombies/ | Flexbox Zombies - shoot zombies while learning flexbox! | @[fairyaksh](https://github.com/fairyaksh) |
-|https://glyphy.io/ | Grid Garden | @[fairyaksh](https://github.com/fairyaksh) |
 |https://www.blobmaker.app/ | SVG Blob generator | @[fairyaksh](https://github.com/fairyaksh) |
 |https://cssgradient.io/ | Color Gradient generator | @[fairyaksh](https://github.com/fairyaksh) |
 |https://miro.com/ | Online collaborative whiteboard platform | @[fairyaksh](https://github.com/fairyaksh) |
