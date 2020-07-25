@@ -24,9 +24,9 @@
 
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
+|https://www.notion.so/ | Note-taking tool | ... |
 |https://whimsical.com/ | Wireframing tool | Amber |
 |https://formspree.io/ | Allows you to send the data from your forms where you can save it | Amber |
-|https://www.notion.so/ | Note-taking tool ? | ? |
 |https://www.toptal.com/designers/colorfilter | Colourblind checker | @[jessica440](https://github.com/jessica440)  |
 |https://flexboxfroggy.com/ | Flexbox Froggy! | @[jessica440](https://github.com/jessica440)  |
 |https://cssgridgarden.com/ | Grid Garden | @[jessica440](https://github.com/jessica440)  |
