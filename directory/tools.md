@@ -8,16 +8,16 @@
 |Indent-rainbow | A different color for every level of indentation | @[Azizi-A](https://github.com/Azizi-A) |
 |Bracket Pair Colorizer 2 | Brackets paired by colour | @[Azizi-A](https://github.com/Azizi-A) |
 |Highlight Matching Tag | Highlights matching tags | Terry |
-|Noctis | Colleciton of Light & Dark themes | Akshaya |
-|Better Comments | Annotating with alert, informational, TODOs, and more! | Akshaya |
-|Code Spell Checker | Spelling checker for source code | Akshaya |
-|CSS Peek | Allows peeking to respective CSS elements | Akshaya |
-|Debugger for Chrome | Debugger your JS code in Chrome from VSCode | Akshaya |
-|Git history | View git log, file history, compare branches or commits | Akshaya |
-|JavaScript (ES6) code snippets | Code snippets for JavaScript in ES6 syntax | Akshaya |
-|Path Intellisense | Autocompletes filenames | Akshaya |
-|Markdown All in One | All you need for Markdown files | Akshaya |
-|Settings Sync | Synchronize settings, extensions, themes etc across multiple machines | Akshaya |
+|Noctis | Colleciton of Light & Dark themes | @[fairyaksh](https://github.com/fairyaksh) |
+|Better Comments | Annotating with alert, informational, TODOs, and more! | @[fairyaksh](https://github.com/fairyaksh) |
+|Code Spell Checker | Spelling checker for source code | @[fairyaksh](https://github.com/fairyaksh) |
+|CSS Peek | Allows peeking to respective CSS elements | @[fairyaksh](https://github.com/fairyaksh) |
+|Debugger for Chrome | Debugger your JS code in Chrome from VSCode | @[fairyaksh](https://github.com/fairyaksh) |
+|Git history | View git log, file history, compare branches or commits | @[fairyaksh](https://github.com/fairyaksh) |
+|JavaScript (ES6) code snippets | Code snippets for JavaScript in ES6 syntax | @[fairyaksh](https://github.com/fairyaksh) |
+|Path Intellisense | Autocompletes filenames | @[fairyaksh](https://github.com/fairyaksh) |
+|Markdown All in One | All you need for Markdown files | @[fairyaksh](https://github.com/fairyaksh) |
+|Settings Sync | Synchronize settings, extensions, themes etc across multiple machines | @[fairyaksh](https://github.com/fairyaksh) |
 
 
 
@@ -31,9 +31,9 @@
 |https://www.toptal.com/designers/colorfilter | Colourblind checker | Jessica |
 |https://flexboxfroggy.com/ | Flexbox Froggy! | Jessica |
 |https://cssgridgarden.com/ | Grid Garden | Jessica |
-|https://mastery.games/flexboxzombies/ | Flexbox Zombies - shoot zombies while learning flexbox! | Akshaya |
-|https://glyphy.io/ | Grid Garden | Akshaya |
-|https://www.blobmaker.app/ | SVG Blob generator | Akshaya |
-|https://cssgradient.io/ | Color Gradient generator | Akshaya |
-|https://miro.com/ | Online collaborative whiteboard platform | Akshaya |
+|https://mastery.games/flexboxzombies/ | Flexbox Zombies - shoot zombies while learning flexbox! | @[fairyaksh](https://github.com/fairyaksh) |
+|https://glyphy.io/ | Grid Garden | @[fairyaksh](https://github.com/fairyaksh) |
+|https://www.blobmaker.app/ | SVG Blob generator | @[fairyaksh](https://github.com/fairyaksh) |
+|https://cssgradient.io/ | Color Gradient generator | @[fairyaksh](https://github.com/fairyaksh) |
+|https://miro.com/ | Online collaborative whiteboard platform | @[fairyaksh](https://github.com/fairyaksh) |
 |https://www.netlify.com/ | Allows you to deploy your site, manage your forms and submissions and much more.-[Learn how to deploy with netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) | Khadija |
