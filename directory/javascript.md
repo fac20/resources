@@ -2,5 +2,5 @@
 
 | Link | Description | Added by |
 | ---- | ----------- | -------- |
-|https://css-tricks.com/template-literals/|template literals in JavaScript|James|
+|https://css-tricks.com/template-literals/|Template literals in JavaScript|James|
 | |  |  |
