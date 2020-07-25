@@ -4,9 +4,9 @@
 | ---- | ----------- | -------- |
 |Live Share | Share the code you're working on | ... |
 |Live Server | View the websight your working on in real-time | ... |
-|Code Spell Checker | A spell checker | Azizi |
-|Indent-rainbow | A different color for every level of indentation | Azizi |
-|Bracket Pair Colorizer 2 | Brackets paired by colour | Azizi |
+|Code Spell Checker | A spell checker | @[Azizi-A](https://github.com/Azizi-A) |
+|Indent-rainbow | A different color for every level of indentation | @[Azizi-A](https://github.com/Azizi-A) |
+|Bracket Pair Colorizer 2 | Brackets paired by colour | @[Azizi-A](https://github.com/Azizi-A) |
 |Highlight Matching Tag | Highlights matching tags | Terry |
 |Noctis | Colleciton of Light & Dark themes | Akshaya |
 |Better Comments | Annotating with alert, informational, TODOs, and more! | Akshaya |
