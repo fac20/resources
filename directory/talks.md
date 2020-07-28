@@ -9,7 +9,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 2    | [Alex](https://twitter.com/alexadventures0) & [Rosa](https://www.linkedin.com/in/rosalie-baxter-6a3515145/) | [Tips & Tidbits](https://www.canva.com/design/DAD1fSb9SFk/zqxVC7HDh6yCy8yXvxnv9w/view) | |
 | 2    | [Gigi](https://twitter.com/gigi_minova?lang=en) | [Advanced look at APIs](https://hackmd.io/@SjkyAeAyRjSqv_tPCU-41A/BJgsfpF-S#/) | |
 | 3    | [Hannah](https://twitter.com/hannahgooding?lang=en) | [Why the F Didn't I Know This Sooner](https://www.canva.com/design/DAECoIPnj_E/QqaE5pdqMi5luyPOlkZUYg/view) | [Notes](https://hackmd.io/@hannahgooding/Byi3mqExD) |
-| 3    | [Gregor]    | [Tech For Better Introduction] (https://hackmd.io/@fac/HJ-i6uLpI#/)  | |
+| 3    | Gregor    | [Tech For Better Introduction](https://hackmd.io/@fac/HJ-i6uLpI#/)  | |
 | 4    | Name        | [Topic](#) |
 | 4    | Name        | [Topic](#) |
 | 5    | Name        | [Topic](#) |
