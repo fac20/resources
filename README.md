@@ -22,6 +22,7 @@ Credit to [Joko](https://github.com/jokosanyang) for inspiring us all.
 - [Styling](./directory/styling.md)
 - [Talks](./directory/talks.md)
 - [Tools/Generators](./directory/tools.md)
+- [Testing](/.directory/Testing.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
