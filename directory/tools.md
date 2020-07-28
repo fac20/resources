@@ -35,3 +35,4 @@
 |https://cssgradient.io/ | Color Gradient generator | @[fairyaksh](https://github.com/fairyaksh) |
 |https://miro.com/ | Online collaborative whiteboard platform | @[fairyaksh](https://github.com/fairyaksh) |
 |https://www.netlify.com/ | Allows you to deploy your site, manage your forms and submissions and much more.-[Learn how to deploy with netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/) | Khadija |
+|https://losslesshq.com/ | When it launches, will translate your plain English into a regex! | @[jenndroid](https://github.com/jenndroid)
