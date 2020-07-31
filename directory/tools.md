@@ -17,7 +17,7 @@
 |Path Intellisense | Autocompletes filenames | @[fairyaksh](https://github.com/fairyaksh) |
 |Markdown All in One | All you need for Markdown files | @[fairyaksh](https://github.com/fairyaksh) |
 |Settings Sync | Synchronize settings, extensions, themes etc across multiple machines | @[fairyaksh](https://github.com/fairyaksh) |
-
+|Theme Colour Reference|[Every single colour you can change in VS Code, and how](https://code.visualstudio.com/api/references/theme-color)|@[jenndroid](https://github.com/jenndroid)|
 
 
 # Other Tools
