@@ -11,4 +11,5 @@
 | https://app.itg.digital/ | Free illustrations | @[fairyaksh](https://github.com/fairyaksh) |
 | https://lawsofux.com/ | A collection of UX principles | @[fairyaksh](https://github.com/fairyaksh) |
 | https://www.youtube.com/playlist?list=PLrJQSKQvgHS43VLbEJrsCtSHUrGnV49EU | Great design/web dev tutorials | @[fairyaksh](https://github.com/fairyaksh) |
-
+|https://stories.freepik.com/ | Free customisable illustrations| Khadija |
+| https://www.openpeeps.com/ | Library of Characters | Anna T (FAC16?)
