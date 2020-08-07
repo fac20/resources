@@ -11,7 +11,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 3    | [Hannah](https://twitter.com/hannahgooding?lang=en) | [Why the F Didn't I Know This Sooner](https://www.canva.com/design/DAECoIPnj_E/QqaE5pdqMi5luyPOlkZUYg/view) | [Notes](https://hackmd.io/@hannahgooding/Byi3mqExD) |
 | 3    | [Johanna](https://twitter.com/visionsremain)    | [Tech and social impact](https://docs.google.com/presentation/d/1yqZujxdP0nvuEYWMabVU-hYkqxjI0-fBGCUAU1zaSlY/)   | |
 | 4    | [Michelle](https://twitter.com/msmichellegar?lang=en)| [How to pick node modules](https://docs.google.com/presentation/d/1fPAyJW8qPKMRV_HhC5wwDSc_VQZY9BuRIYQKSKFGAl0) |
-| 4    | James        | [Topic](#) |
+| 4    | [James](https://www.linkedin.com/in/jamesh0/)| [Mindset with James FAC19](https://www.canva.com/design/DAEEJe03QiA/EAPsy8flwP3TH1NmSZ-YwA/view?utm_content=DAEEJe03QiA) | [Notes](https://hackmd.io/GbN_FADhTVyh2spfLI6AKA) |
 | 5    | Name        | [Topic](#) |
 | 5    | Name        | [Topic](#) |
 | 6    | Name        | [Topic](#) |
