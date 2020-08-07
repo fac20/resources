@@ -9,7 +9,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 2    | [Alex](https://twitter.com/alexadventures0) & [Rosa](https://www.linkedin.com/in/rosalie-baxter-6a3515145/) | [Tips & Tidbits](https://www.canva.com/design/DAD1fSb9SFk/zqxVC7HDh6yCy8yXvxnv9w/view) | |
 | 2    | [Gigi](https://twitter.com/gigi_minova?lang=en) | [Advanced look at APIs](https://hackmd.io/@SjkyAeAyRjSqv_tPCU-41A/BJgsfpF-S#/) | |
 | 3    | [Hannah](https://twitter.com/hannahgooding?lang=en) | [Why the F Didn't I Know This Sooner](https://www.canva.com/design/DAECoIPnj_E/QqaE5pdqMi5luyPOlkZUYg/view) | [Notes](https://hackmd.io/@hannahgooding/Byi3mqExD) |
-| 3    | Johanna    | [Topic](#)   | |
+| 3    | [Johanna](https://twitter.com/visionsremain)    | [Tech and social impact](https://docs.google.com/presentation/d/1yqZujxdP0nvuEYWMabVU-hYkqxjI0-fBGCUAU1zaSlY/)   | |
 | 4    | [Michelle](https://twitter.com/msmichellegar?lang=en)| [How to pick node modules](https://docs.google.com/presentation/d/1fPAyJW8qPKMRV_HhC5wwDSc_VQZY9BuRIYQKSKFGAl0) |
 | 4    | James        | [Topic](#) |
 | 5    | Name        | [Topic](#) |
