@@ -1,5 +1,7 @@
 # RESOURCES
 
+(_Remember there are also resources in the coursebook for each week! https://founders-and-coders.gitbook.io/coursebook/curriculum/teamwork-and-toolkit as an example_)
+
 This repo is a place to store all the wonderful resources you stumble across.
 
 Because Sharing is Caring. 
