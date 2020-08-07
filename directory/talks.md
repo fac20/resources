@@ -10,7 +10,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 2    | [Gigi](https://twitter.com/gigi_minova?lang=en) | [Advanced look at APIs](https://hackmd.io/@SjkyAeAyRjSqv_tPCU-41A/BJgsfpF-S#/) | |
 | 3    | [Hannah](https://twitter.com/hannahgooding?lang=en) | [Why the F Didn't I Know This Sooner](https://www.canva.com/design/DAECoIPnj_E/QqaE5pdqMi5luyPOlkZUYg/view) | [Notes](https://hackmd.io/@hannahgooding/Byi3mqExD) |
 | 3    | Johanna    | [Topic](#)   | |
-| 4    | Michelle        | [Topic](#) |
+| 4    | [Michelle](https://twitter.com/msmichellegar?lang=en)| [How to pick node modules](https://docs.google.com/presentation/d/1fPAyJW8qPKMRV_HhC5wwDSc_VQZY9BuRIYQKSKFGAl0) |
 | 4    | James        | [Topic](#) |
 | 5    | Name        | [Topic](#) |
 | 5    | Name        | [Topic](#) |
