@@ -5,3 +5,4 @@
 | https://howdns.works/ | Fun comic explaining DNS | @[fairyaksh](https://github.com/fairyaksh) |
 | https://howhttps.works/ | Fun comic explaining HTTPS | @[fairyaksh](https://github.com/fairyaksh) |
 | https://howdns.works/ep1/ | More info on the DNS queries/ servers | @[HettieM](https://github.com/HettieM) |
+| https://www.youtube.com/watch?v=DUg2SWWK18I | Web server and MVC explanation | @[jenndroid](https://github.com/jenndroid) |
