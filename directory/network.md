@@ -6,3 +6,4 @@
 | https://howhttps.works/ | Fun comic explaining HTTPS | @[fairyaksh](https://github.com/fairyaksh) |
 | https://howdns.works/ep1/ | More info on the DNS queries/ servers | @[HettieM](https://github.com/HettieM) |
 | https://www.youtube.com/watch?v=DUg2SWWK18I | Web server and MVC explanation | @[jenndroid](https://github.com/jenndroid) |
+| https://maggieappleton.com/api | Comic explaining APIs | @[mhtein](https://github.com/mhtien) |
