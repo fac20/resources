@@ -10,21 +10,23 @@ Credit to [Joko](https://github.com/jokosanyang) for inspiring us all.
 
 ## List of categories
 
+- [Single page applications](./directory/SPAs.md)
 - [Accessibility](./directory/accessibility.md)
 - [Databases](./directory/databases.md)
-- [Network](./directory/network.md)
 - [Design (incl theory))](./directory/design.md)
+- [Employment tips](./directory/employment.md)
 - [Git/GitHub](./directory/git.md)
 - [HTML](./directory/html.md)
 - [Javascript](./directory/javascript.md)
 - [Job search](./directory/jobs.md)
 - [Meetups](./directory/meetups.md)
+- [Network](./directory/network.md)
 - [Node.js](./directory/node.md)
-- [Single page applications](./directory/SPAs.md)
 - [Styling](./directory/styling.md)
 - [Talks](./directory/talks.md)
-- [Tools/Generators](./directory/tools.md)
+- [Test](./directory/test.md)
 - [Testing](./directory/testing.md)
+- [Tools/Generators](./directory/tools.md)
 - [Wellbeing](./directory/wellbeing.md)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
