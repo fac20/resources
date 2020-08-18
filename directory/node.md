@@ -9,3 +9,4 @@
 | https://nodejs.org/es/docs/guides/anatomy-of-an-http-transaction/| HTTP transaction| @[RihardsJ](https://github.com/RihardsJ)|
 | https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=2264s| Nodejs Crash Course | @[RihardsJ](https://github.com/RihardsJ)|
 | https://www.youtube.com/watch?v=UMKS6su8HQc&list=PLyuRouwmQCjnr-rRrhbPrS4YQ0brDQ-14| Build a basic web server with Nodejs | @[jenndroid](https://github.com/jenndroid)|
+| https://medium.com/alturasoluciones/eslint-basic-configuration-18b2109d98ec | Quick guide to getting ES-Lint installed and creating a basic config | @[Roger-Heathcote](https://github.com/Roger-Heathcote)
