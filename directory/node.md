@@ -12,3 +12,4 @@
 | https://medium.com/alturasoluciones/eslint-basic-configuration-18b2109d98ec | Quick guide to getting ES-Lint installed and creating a basic config | @[Roger-Heathcote](https://github.com/Roger-Heathcote)|
 | https://www.codecademy.com/articles/what-is-rest | An artice on REST and how to design web services using the REST paradigm | @[liz Jegede](https://github.com/Lizzy-j)|
 | https://dev.to/lydiahallie/cs-visualized-cors-5b8h | An article explaining and visualising CORS and its usage  | @[Ephie Oyedoh](https://github.com/ephieo)|
+|https://jwt.io/ | JWT website | @Kate Beard
