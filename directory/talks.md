@@ -14,7 +14,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 4    | [James](https://www.linkedin.com/in/jamesh0/)| [Mindset with James FAC19](https://www.canva.com/design/DAEEJe03QiA/EAPsy8flwP3TH1NmSZ-YwA/view?utm_content=DAEEJe03QiA) | [Notes](https://hackmd.io/GbN_FADhTVyh2spfLI6AKA) |
 | 5    | [Oli](https://twitter.com/_oliverjam)        | [A11y](https://fac-a11y.netlify.app/) | [Codepen](https://codepen.io/oliverjam/pen/JjdZaoV) |
 | 5    | [Anna T](https://twitter.com/annatloth) | [think like ... a coder (and other things)](https://www.canva.com/design/DAEEmcijusM/mDzWGBnlCqwG2n_8W4z_EQ/view) |
-| 6    | Kate        | [REST & Insomnia](#) |
+| 6    | [Kate](https://twitter.com/sbinlondon?lang=en)        | [REST & Insomnia](#) |
 | 6    | [Reuben](https://twitter.com/reubenmightcode)      | [Mentoring is Awesome](https://www.canva.com/design/DAEFgAVCgQk/QQ86OXUuiTOIfPNZ-nNQPA/view?utm_content=DAEFgAVCgQk) |
 | 7    | [Akin](https://www.linkedin.com/in/akin-sowemimo-831383131/)        | [Open Source software](https://docs.google.com/presentation/d/10NZGgpgpBjkcPqBqunbK29mBPcw1uEPSgMowbrobJ0Q/edit?usp=sharing) |
 | 7    | Name        | [Topic](#) |
