@@ -16,7 +16,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 5    | [Anna T](https://twitter.com/annatloth) | [think like ... a coder (and other things)](https://www.canva.com/design/DAEEmcijusM/mDzWGBnlCqwG2n_8W4z_EQ/view) |
 | 6    | Kate        | [REST & Insomnia](#) |
 | 6    | [Reuben](https://twitter.com/reubenmightcode)      | [Mentoring is Awesome](https://www.canva.com/design/DAEFgAVCgQk/QQ86OXUuiTOIfPNZ-nNQPA/view?utm_content=DAEFgAVCgQk) |
-| 7    | Name        | [Topic](#) |
+| 7    | [Akin](https://www.linkedin.com/in/akin-sowemimo-831383131/)        | [Open Source software](https://docs.google.com/presentation/d/10NZGgpgpBjkcPqBqunbK29mBPcw1uEPSgMowbrobJ0Q/edit?usp=sharing) |
 | 7    | Name        | [Topic](#) |
 | 8    | Name        | [Topic](#) |
 | 8    | Name        | [Topic](#) |
