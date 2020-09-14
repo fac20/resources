@@ -18,10 +18,10 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 6    | [Reuben](https://twitter.com/reubenmightcode)      | [Mentoring is Awesome](https://www.canva.com/design/DAEFgAVCgQk/QQ86OXUuiTOIfPNZ-nNQPA/view?utm_content=DAEFgAVCgQk) |
 | 7    | [Akin](https://www.linkedin.com/in/akin-sowemimo-831383131/)        | [Open Source software](https://docs.google.com/presentation/d/10NZGgpgpBjkcPqBqunbK29mBPcw1uEPSgMowbrobJ0Q/edit?usp=sharing) |
 | 7    | [Ivan](https://www.twitter.com/ivanmauric_io)| [Learning to learn](https://learning-how-to-learn.now.sh/) |
-| 8    | Name        | [Topic](#) |
-| 8    | Name        | [Topic](#) |
-| 9    | Name        | [Topic](#) |
-| 9    | Name        | [Topic](#) |
+| 8    | READING WEEK| n/a |
+| 8    | READING WEEK| n/a |
+| 9    | [Oli](https://twitter.com/_oliverjam)        | [Why CSS: minimal styling on CodePen](https://codepen.io/oliverjam/pen/YzqeMjO) |
+| 9    | [Justen](https://github.com/Jbarget)| Freelancing like a pro |
 | 10   | Name        | [Topic](#) |
 | 10   | Name        | [Topic](#) |
 | 11   | Name        | [Topic](#) |
