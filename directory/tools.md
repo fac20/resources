@@ -19,7 +19,7 @@
 |Settings Sync | Synchronize settings, extensions, themes etc across multiple machines | @[fairyaksh](https://github.com/fairyaksh) |
 |Theme Colour Reference|[Every single colour you can change in VS Code, and how](https://code.visualstudio.com/api/references/theme-color)|@[jenndroid](https://github.com/jenndroid)|
 |https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced | VSCode extension for viewing formatted README.md files in your VSCode editor | @[Vatsal]( https://github.com/VatsKan)
-|https://storybook.js.org/| A component helper | @[rungt](https://github.com/rungt)|
+
 
 
 # Other Tools
