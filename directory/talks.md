@@ -33,7 +33,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 14   | Victor        | [From Figma to React](#) |
 | 14   | Name        | [Topic](#) |
 | 15   | Name        | [Topic](#) |
-| 15   | Name        | [Topic](#) |
+| 15   | Maria        | [Inclusitivity and employment](#) |
 | 16   | Name        | [Topic](#) |
 | 16   | Name        | [Topic](#) |
 | 17   | Name        | [Topic](#) |
