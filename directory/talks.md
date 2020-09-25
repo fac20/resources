@@ -31,10 +31,10 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 13   | Freddie        | [Designing a dating algorithm](#) |
 | 13   | Georgia        | [How my first dev job is going](#) |
 | 14   | Victor        | [From Figma to React](#) |
-| 14   | Name        | [Topic](#) |
-| 15   | Name        | [Topic](#) |
+| 14   | _tbc_        | [Topic](#) |
+| 15   | _tbc_        | [Topic](#) |
 | 15   | Maria        | [Inclusitivity and employment](#) |
-| 16   | Name        | [Topic](#) |
-| 16   | Name        | [Topic](#) |
-| 17   | Name        | [Topic](#) |
-| 17   | Name        | [Topic](#) |
+| 16   | _tbc_        | [Topic](#) |
+| 16   | _tbc_        | [Topic](#) |
+| 17   | _tbc_        | [Topic](#) |
+| 17   | _tbc_        | [Topic](#) |
