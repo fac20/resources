@@ -25,12 +25,12 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 10   | [Lucy](https://twitter.com/Lucy_MKay) and [Max](https://github.com/maxgerber)        | [NVC at InFact](https://github.com/InFact-coop/nvc-talk) |
 | 10   | [Joe](https://twitter.com/joepock_dev)| [De[Constructing] React](https://hackmd.io/@tqMeeAfSQoK-r840v0LJsg/H1f2KQtVw) |
 | 11   | [Ruth](https://twitter.com/ruthuwemedimo)    | [BDD & Cypress](https://docs.google.com/presentation/d/1l8nI9PTIlWUXzwU6VnP23iQjIOGIjkpLk70qTHTQctI/edit?usp=sharing) |
-| 11   | Name        | [Topic](#) |
-| 12   | Name        | [Topic](#) |
-| 12   | Name        | [Topic](#) |
-| 13   | Name        | [Topic](#) |
-| 13   | Name        | [Topic](#) |
-| 14   | Name        | [Topic](#) |
+| 11   | Dan        | [Workers' Rights](#) |
+| 12   | Florence        | [Tips and tricks for user testing](#) |
+| 12   | Hettie        | [Job hunting in a pandemic](#) |
+| 13   | Freddie        | [Designing a dating algorithm](#) |
+| 13   | Georgia        | [How my first dev job is going](#) |
+| 14   | Victor        | [From Figma to React](#) |
 | 14   | Name        | [Topic](#) |
 | 15   | Name        | [Topic](#) |
 | 15   | Name        | [Topic](#) |
