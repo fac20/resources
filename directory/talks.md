@@ -23,7 +23,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 9    | [Oli](https://twitter.com/_oliverjam)        | [Why CSS: minimal styling on CodePen](https://codepen.io/oliverjam/pen/YzqeMjO) |
 | 9    | [Justen](https://github.com/Jbarget)| Freelancing like a pro |
 | 10   | [Lucy](https://twitter.com/Lucy_MKay) and [Max](https://github.com/maxgerber)        | [NVC at InFact](https://github.com/InFact-coop/nvc-talk) |
-| 10   | Name        | [Topic](#) |
+| 10   | [Joe](https://twitter.com/joepock_dev)| [De[Constructing] React](https://hackmd.io/@tqMeeAfSQoK-r840v0LJsg/H1f2KQtVw) |
 | 11   | [Ruth](https://twitter.com/ruthuwemedimo)    | [BDD & Cypress](https://docs.google.com/presentation/d/1l8nI9PTIlWUXzwU6VnP23iQjIOGIjkpLk70qTHTQctI/edit?usp=sharing) |
 | 11   | Name        | [Topic](#) |
 | 12   | Name        | [Topic](#) |
