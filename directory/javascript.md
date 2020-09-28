@@ -8,3 +8,4 @@
 |https://www.developerdrive.com/turning-the-querystring-into-a-json-object-using-javascript/|Turning a Querystring to an object|@[Akshaya-S](https://github.com/fairyaksh)|
 |https://dottedsquirrel.com/javascript/currying/ | 'Currying' in JS: One Function, Multiple Argument Brackets?! | @[jenndroid](https://github.com/jenndroid)|
 |https://dev.to/ephieo/beginners-attempt-at-creating-a-javascript-stopwatch-4kg6| Ephie's stopwatch article | @[rungt](https://github.com/rungt)|
+|https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt#Description| ParseInt() | @[ephieo](https://github.com/ephieo)|
