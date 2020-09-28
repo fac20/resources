@@ -28,6 +28,8 @@ Credit to [Joko](https://github.com/jokosanyang) for inspiring us all.
 - [Testing](./directory/testing.md)
 - [Tools/Generators](./directory/tools.md)
 - [Wellbeing](./directory/wellbeing.md)
+- [Workshop Links](https://github.com/fac20/resources/blob/main/directory/workshop-links.md)
+- [Tech for Better ](https://github.com/fac20/resources/blob/main/directory/tech-for-better)
 
 This repo belongs to you, so don't hesitate to add any new categories if you feel any are missing.
 
