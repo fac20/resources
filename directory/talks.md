@@ -27,14 +27,12 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 11   | [Ruth](https://twitter.com/ruthuwemedimo)    | [BDD & Cypress](https://docs.google.com/presentation/d/1l8nI9PTIlWUXzwU6VnP23iQjIOGIjkpLk70qTHTQctI/edit?usp=sharing) |
 | 11   | [Dan](https://github.com/freemvmt)| [Workers' rights](https://hackmd.io/@freemvmt/fac-organising-talk-notes) |
 | 12   | Florence        | [Tips and tricks for user testing](#) |
-| 12   | Hettie        | [Job hunting in a pandemic](#) |
-| 13   | Freddie        | [Designing a dating algorithm](#) |
-| 13   | Georgia        | [How my first dev job is going](#) |
-| 14   | Victor        | [From Figma to React](#) |
-| 14   | _tbc_        | [Topic](#) |
-| 15   | _tbc_        | [Topic](#) |
+| 12   | [Hettie](https://www.linkedin.com/in/hettie-mcconnell-b0589617b/)        | [Job hunting in a pandemic](https://www.canva.com/design/DAEIzwpblck/M16b5Ixn8_BaIA_fSjCxZg/view?utm_content=DAEIzwpblck&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) |
+| 13   | [Freddie](https://github.com/Fweddi)        | [Designing a dating algorithm](#) |
+| 13   | [Georgia](https://www.linkedin.com/in/jalisco/)        | [Starting work in a pandemic](#) |
+| 14   | [Victor](https://www.linkedin.com/in/victormasson21/)        | [From Figma to React](#) |
+| 14   | [Anni](https://twitter.com/intersticia?lang=en)        | [Semantic Web](https://www.dropbox.com/s/pmgyqpm2bgvy94q/facsemanticweb2020.pdf?dl=0) |
+| 15   | Eade        | [Visualising data](#) |
 | 15   | Maria        | [Inclusitivity and employment](#) |
-| 16   | _tbc_        | [Topic](#) |
-| 16   | _tbc_        | [Topic](#) |
-| 17   | _tbc_        | [Topic](#) |
-| 17   | _tbc_        | [Topic](#) |
+| 16   | Bobby        | [Animating SVGs](#) |
+| 16   | Jamie & Beth        | [reflection on Tech for Better](#) |
