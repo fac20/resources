@@ -26,7 +26,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 10   | [Joe](https://twitter.com/joepock_dev)| [De[Constructing] React](https://hackmd.io/@tqMeeAfSQoK-r840v0LJsg/H1f2KQtVw) |
 | 11   | [Ruth](https://twitter.com/ruthuwemedimo)    | [BDD & Cypress](https://docs.google.com/presentation/d/1l8nI9PTIlWUXzwU6VnP23iQjIOGIjkpLk70qTHTQctI/edit?usp=sharing) |
 | 11   | [Dan](https://github.com/freemvmt)| [Workers' rights](https://hackmd.io/@freemvmt/fac-organising-talk-notes) |
-| 12   | Florence        | [Tips and tricks for user testing](#) |
+| 12   | [Florence](https://twitter.com/finokoye?lang=en)        | [Tips and tricks for user testing](https://docs.google.com/presentation/d/1steTVxciztBUVk-JDd08oE14VVdX7mTqOHDz4NblaBw/edit?usp=sharing) |
 | 12   | [Hettie](https://www.linkedin.com/in/hettie-mcconnell-b0589617b/)        | [Job hunting in a pandemic](https://www.canva.com/design/DAEIzwpblck/M16b5Ixn8_BaIA_fSjCxZg/view?utm_content=DAEIzwpblck&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) |
 | 13   | [Freddie](https://github.com/Fweddi)        | [Designing a dating algorithm](#) |
 | 13   | [Georgia](https://www.linkedin.com/in/jalisco/)        | [Starting work in a pandemic](#) |
