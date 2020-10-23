@@ -28,7 +28,7 @@ This file should contain the names of each Tues & Fri speaker and a link to thei
 | 11   | [Dan](https://github.com/freemvmt)| [Workers' rights](https://hackmd.io/@freemvmt/fac-organising-talk-notes) |
 | 12   | [Florence](https://twitter.com/finokoye?lang=en)        | [Tips and tricks for user testing](https://docs.google.com/presentation/d/1steTVxciztBUVk-JDd08oE14VVdX7mTqOHDz4NblaBw/edit?usp=sharing) |
 | 12   | [Hettie](https://www.linkedin.com/in/hettie-mcconnell-b0589617b/)        | [Job hunting in a pandemic](https://www.canva.com/design/DAEIzwpblck/M16b5Ixn8_BaIA_fSjCxZg/view?utm_content=DAEIzwpblck&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) |
-| 13   | [Freddie](https://github.com/Fweddi)        | [Designing a dating algorithm](#) |
+| 13   | [Freddie](https://github.com/Fweddi)        | [Designing a dating algorithm](https://drive.google.com/file/d/1lIEHZkVps6ROAMLRLGRB6z8H-bsOfO3u/view?usp=sharing) | [Complex ML book](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) & [ML cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) |
 | 13   | [Georgia](https://www.linkedin.com/in/jalisco/)        | [Starting work in a pandemic](#) |
 | 14   | [Victor](https://www.linkedin.com/in/victormasson21/)        | [From Figma to React](#) |
 | 14   | [Anni](https://twitter.com/intersticia?lang=en)        | [Semantic Web](https://www.dropbox.com/s/pmgyqpm2bgvy94q/facsemanticweb2020.pdf?dl=0) |
