@@ -20,7 +20,7 @@
 |Theme Colour Reference|[Every single colour you can change in VS Code, and how](https://code.visualstudio.com/api/references/theme-color)|@[jenndroid](https://github.com/jenndroid)|
 |https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced | VSCode extension for viewing formatted README.md files in your VSCode editor | @[Vatsal]( https://github.com/VatsKan)
 
-
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZXPGrp2r2bmPTf3VgiE00AHaJt%26pid%3DApi&f=1" width="100" alt="egg" />
 
 # Other Tools
 

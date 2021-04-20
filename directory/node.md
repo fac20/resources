@@ -15,3 +15,5 @@
 |https://jwt.io/ | JWT website | @Kate Beard|
 | https://jsonformatter.curiousconcept.com/ | Format and validate JSON data (Just remember it’s a public website so don’t ever paste anything super secret) | @Kate Beard|
 | https://www.booleanworld.com/curl-command-tutorial-examples/#cURL_basic_usage |  | @[Vatsal](github.com/VatsKan |
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.CkA7WOSmngeAAqGn0syxvAHaJk%26pid%3DApi&f=1" width="100" alt="egg" />

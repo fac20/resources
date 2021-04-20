@@ -32,3 +32,5 @@
 | 15   | External    |Maria        | [Inclusitivity and employment](#) |
 | 16   | 16    |Bobby        | [Animating SVGs](#) |
 | 16   | 18    |Jamie & Beth        | [reflection on Tech for Better](#) |
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.KuyapDV2xbSOqaD2KkBSXwHaJM%26pid%3DApi&f=1" width="100" alt="egg" />
+
